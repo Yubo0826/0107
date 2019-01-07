@@ -21,4 +21,4 @@
 
 7.打上semanage port -a -t ssh_port_t -p tcp 2222 這項指令，接著重啟ssh即可完成!
 
-![image](https://github.com/Yubo0826/0107/blob/master/4.PNG)
+![image](https://github.com/Yubo0826/0107/blob/master/7.PNG)
